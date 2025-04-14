@@ -96,8 +96,9 @@ The website is fully responsive and optimized for:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Contact
+- rdas22311@gmail.com
 
 For any queries or suggestions, please feel free to reach out to the project maintainers.
 
 ---
-Made with ❤️ for better healthcare management 
+Made with ❤️ Rajeeb for better healthcare management 
